@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+  <name>Pavel</name>
+
+  <age>30</age>
+
+  <profession>Godd Programmer</profession>
+
+  <contact>666-66-66</contact>
+</person>

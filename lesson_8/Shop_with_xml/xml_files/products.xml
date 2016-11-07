@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product price="10" amount_available="15">
+    <book book="Приключения Тома Сойера" author="Марк Твен"></book>
+  </product>
+  <product price="20" amount_available="10">
+    <movie film="Леон" director="Люк Бессон" year = "1994"></movie>
+  </product>
+  <product price="30" amount_available="5">
+    <music_album artist="Корн" album="Неизвестно" genre="Метал"></music_album>
+  </product>
+  <product price="11" amount_available="3">
+    <book book="Жизнь ЛАГ" author="ЛАГ"></book>
+  </product>
+  <product price="21" amount_available="8">
+    <movie film="Батька" director="Несчастный Журналист" year = "1994"></movie>
+  </product>
+  <product price="100" amount_available="5">
+    <music_album artist="Сатирикон" album="Слава сатане" genre="Блэк"></music_album>
+  </product>
+</products>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<expenses>
+  <expense amount='42' category='242' date='2016.11.07'>
+    42
+  </expense>
+</expenses>
