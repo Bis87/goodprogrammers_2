@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?> 
 <expenses>
   <expense amount='42' category='242' date='2016.11.07'>
-    42
+     42 
+  </expense>
+  <expense amount='123' category='13' date='2016.11.13'>
+     13 
+  </expense>
+  <expense amount='13' category='' date='2016.11.13'>
+    123
   </expense>
 </expenses>
