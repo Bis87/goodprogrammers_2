@@ -4,6 +4,20 @@ class Product
     @price = price
   end
 
+  def check_price
+    @price
+  end
+
+  def update
+  end
+
+  def info
+  end
+
+  def show
+    "#{info}  price #{@price}; quantity: #{@quantity}"
+  end
+
   def self.show_products(products)
 
     puts "Что вы хотите купить?"
@@ -69,21 +83,9 @@ class Product
     end
   end
 
-  def show
-    "#{info}  price #{@price}; quantity: #{@quantity}"
-  end
 
-  def check_price
-    @price
-  end
 
-  def update
 
-  end
-
-  def info
-
-  end
 
 end
 

@@ -5,7 +5,7 @@ class Post
   end
 
   def self.post_types
-    [Memo, Task, Link]
+    [MemoDb, TaskDb, LinkDb]
   end
 
   def self.create(type_index)

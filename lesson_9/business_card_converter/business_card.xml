@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<business_card>
+    <first_name>Pavel</first_name>
+    <second_name>N</second_name>
+    <last_name>Rytvinsky</last_name>
+    <phone>+375 29 666-66-66</phone>
+    <email>pavel.rytvinsky@gmail.com</email>
+    <skills>Ruby junior programmer</skills>
+    <photo>https://pp.vk.me/c608323/v608323083/28a4/d7D0vbcapDM.jpg</photo>
+</business_card>

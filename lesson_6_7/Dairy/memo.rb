@@ -1,4 +1,4 @@
-class Memo < Post
+class Memo < PostDb
 
   def read_from_console
     puts 'Напишите текст в консоль. Для завершения ввода введите end'

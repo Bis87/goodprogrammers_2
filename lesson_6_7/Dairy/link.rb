@@ -1,4 +1,4 @@
-class Link < Post
+class Link < PostDb
   def initialize
     super
 
